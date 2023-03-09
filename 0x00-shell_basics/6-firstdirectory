@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp_dir=$(mktemp -d -t ci-XXXXXXXXXX --tmpdir=/home/gabor/tmp)
+mktemp -d -t ci-my_first_directory
